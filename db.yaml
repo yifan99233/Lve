@@ -1,0 +1,4 @@
+host: rds11gs3kjhq3aeyr736o.mysql.rds.aliyuncs.com
+user: cloud_dev
+password: u4-vsQxQLv_R15Nf
+db: photo_cloud_dev
